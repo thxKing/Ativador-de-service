@@ -1,3 +1,224 @@
-z="
-";lGz='l "e';LBz='}"';LEz='NHO=';KFz='O${N';eGz='.goo';sEz='ando';dBz='ev/n';AHz=' $DA';VFz=' a s';TGz='l "m';JGz='=$(d';MBz='"${Y';hDz='r${N';NDz='ICE_';LCz='CE_U';FEz='ção ';VDz='vo N';FCz=' '\''NR';NCz='H=$(';VCz='(ech';GDz=' $DE';nCz='D=$(';rGz='NHO"';aGz='Andr';DCz='T" |';kGz='s/"';rBz='UT=$';cz='"${C';WBz='exit';rEz='cane';UBz='ols$';FDz='do:$';Qz='33[1';IBz='nsta';AFz='FO" ';HGz='o...';az='echo';hGz='oid.';vEz='s...';oGz='o $D';nGz='vaçã';Jz='YELL';jEz='t $C';Cz='3[1;';EHz=' "2"';BFz='| gr';mDz='ffli';yDz='o en';UDz='siti';tEz=' ser';eDz='ão n';wCz='"${G';sFz=' Sai';MFz=' a A';Fz='N='\''\';MEz='"/st';WCz='o "$';WDz='ÃO a';YGz='late';VGz='/sto';Xz='[0m'\''';JBz='lado';QCz='hori';xBz='K=$(';pDz='Rein';ZFz='ue w';ZDz='o${N';KEz='CAMI';Tz='WHIT';kCz='; th';HCz='& $2';gz='====';nFz=' Ati';JHz='pção';Iz='m'\''';cEz='INFO';Sz=''\''';oCz='" | ';PCz='naut';CFz='ep -';dDz='miss';pFz='serv';fz=' "==';xDz='itiv';OEz='e/em';Pz='='\''\0';kBz='o AD';mFz='}[1]';YCz='| aw';vGz='5M 2';XCz='UT" ';ZBz='star';mz='RVIC';WGz='rage';uEz='viço';sCz='$1}'\''';PFz='Depo';mCz='CE_I';vBz=')';fCz=' ""';jBz='cand';RFz='a pa';ABz='>&1;';EGz='hen';nz='E   ';HEz='ou s';YEz='.gms';KBz='${NC';fBz='2>&1';wGz='ll';nBz='p 1';gEz='D" s';tCz=' | h';OBz='W}pk';UGz='kdir';cDz=' per';sz=' com';REz='/And';iFz='esat';MGz='/%m/';SFz='rtid';Nz='3m'\''';fFz='✖] S';tBz=' dev';PDz='TH" ';DBz='"${R';SDz='✖] D';LDz='-n "';nDz='ne${';Uz='E='\''\';ODz='UNAU';hBz='] Ve';sDz='else';iGz='gms/';yBz=' "$D';gFz='ervi';Oz='CYAN';LGz='"+%d';jDz='INE"';SEz='roid';SBz='droi';qz='C}"';QFz='is d';oEz=' -d ';DDz=' con';QEz='ed/0';xz='v/nu';sBz='(adb';pGz='ATA'\''';TDz='ispo';HHz=' 0';xCz='REEN';eFz='peit';bGz='oid/';TEz='/dat';IDz='_ID"';fDz='o ce';jFz='ivad';AGz='op" ';Bz=''\''\03';BEz='rado';NFz='Ocor';AEz='cont';HFz=' ati';hFz='ço d';XFz='ou a';wz='>/de';vCz='-n1)';qDz='icie';Kz='OW='\''';JCz='evic';aEz='es/p';ACz='EVIC';aBz='t-se';yEz='"$IN';VEz='m.go';dGz='/com';cCz='2=="';EBz='ED}[';CGz='1" ]';OFz='rer ';LFz='] Se';vDz='m di';HBz='ão i';lDz='vo o';kDz=' ]];';bz=' -e ';yFz='[ "$';fEz='s "$';DEz='e de';GCz='>1 &';Dz='31m'\''';hz='="';vz='adb ';BGz='== "';EEz='pura';IEz='em f';eEz='db -';UCz='NE=$';tDz='✖] N';kFz='"${W';CHz='"$op';GBz='DB n';Mz='[1;3';dCz='offl';GEz='USB ';NEz='orag';lEz='HO 2';XEz='.and';yCz='}[✔]';ZGz='d/0/';uBz='ices';OGz='H:%M';gBz='W}[*';Gz='033[';gGz='andr';bBz='rver';cBz=' >/d';uz=' -v ';GGz='Apli';oFz='var ';MHz='a${N';BDz='posi';eBz='ull ';aCz='R>1 ';IGz='DATA';cGz='data';nEz='| tr';RDz='then';lz='X SE';Vz='1;37';dz='YAN}';QBz='stal';BCz='ES_O';rz='if !';SCz=''\'')';TCz='FFLI';iz=' "  ';WFz='ala ';ZCz='k '\''N';XDz='utor';BBz=' the';mBz='slee';TFz='a Re';XBz=' 1';vFz='"Opç';lFz='HITE';yz='ll 2';pEz=''\''\r'\''';YFz='pliq';uFz=' -p ';lCz='en';jGz='file';IFz='vo${';xEz='cho ';wDz='spos';GFz=' Ser';Yz='clea';IHz='ED}O';JEz='io${';cFz=' cas';RBz='l an';WEz='ogle';wEz='if e';KGz='ate ';DHz='" ==';KCz='e"'\'')';jz='    ';BHz='TA${';FFz='ção"';MCz='NAUT';DFz='q "A';JFz='$INF';gDz='lula';GHz='aind';RCz='zed"';DGz=']; t';iEz=' "ca';dEz='=$(a';VBz='{NC}';bCz='&& $';pCz='awk ';iCz='E_OK';aFz='o re';qFz='iços';kz='  TH';qEz='] Es';Rz=';36m';FGz='[*] ';mEz='ll" ';uGz=' -G ';uDz='enhu';qCz=''\''{pr';wBz='CE_O';wFz='ão: ';kEz='AMIN';ez='"';Ez='GREE';PGz=':%S"';OCz='=="u';FHz='ED}S';pBz='CES_';fGz='gle.';ADz=' Dis';SGz='shel';xGz=' -c';QGz='-s "';RGz='ID" ';Az='RED=';iDz='OFFL';tGz='gcat';pz='"${N';YBz='fi';ECz=' awk';oz=' "';TBz='d-to';aDz='Acei';XGz='/emu';lBz='B...';rDz=' ADB';EFz='tiva';oBz='DEVI';LHz='álid';EDz='ecta';gCz='if [';CEz='Ativ';bFz='play';KDz=' [[ ';Zz='r';rFz='}[2]';jCz='" ]]';KHz=' inv';mGz=''\''Ati';Hz='1;32';MDz='$DEV';bEz='lay"';yGz='vado';CBz='n';Lz='\033';hCz='[ -n';qGz=' > $';tz='mand';ZEz='/fil';eCz='ine"';CDz='tivo';JDz='elif';hEz='hell';dFz=' sus';Wz='NC='\''';sGz='l lo';ICz='=="d';bDz='te a';tFz='read';iBz='rifi';rCz='int ';PBz='g in';QDz=']]; ';NGz='%Y %';CCz='UTPU';UFz='crie';oDz='NC}"';qBz='OUTP';UEz='a/co';NBz='ELLO';uCz='ead ';FBz='✖] A';xFz='" op';PEz='ulat';YDz='izad';HDz='VICE';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$Sz$z$Tz$Uz$Gz$Vz$Iz$z$Wz$Lz$Xz$z$Yz$Zz$z$az$bz$cz$dz$ez$z$az$fz$gz$gz$gz$gz$gz$gz$gz$gz$gz$hz$z$az$iz$jz$jz$kz$lz$mz$nz$jz$jz$jz$oz$z$az$fz$gz$gz$gz$gz$gz$gz$gz$gz$gz$hz$z$az$bz$pz$qz$z$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$z$az$bz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$z$az$bz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$ez$z$WBz$XBz$z$YBz$z$vz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$z$az$bz$MBz$NBz$gBz$hBz$iBz$jBz$kBz$lBz$KBz$LBz$z$mBz$nBz$z$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$z$oBz$wBz$xBz$az$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$z$oBz$LCz$MCz$NCz$az$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$OCz$PCz$QCz$RCz$SCz$z$oBz$wBz$TCz$UCz$VCz$WCz$oBz$pBz$qBz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$SCz$z$az$fCz$z$gCz$hCz$yBz$ACz$iCz$jCz$kCz$lCz$z$oBz$mCz$nCz$az$yBz$ACz$iCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$z$az$bz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$VBz$GDz$HDz$IDz$z$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$z$az$bz$DBz$EBz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$qz$z$az$bz$cz$dz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$qz$z$WBz$XBz$z$JDz$KDz$LDz$MDz$NDz$iDz$jDz$kDz$BBz$CBz$z$az$bz$DBz$EBz$SDz$TDz$UDz$lDz$mDz$nDz$oDz$z$az$bz$cz$dz$pDz$qDz$rDz$KBz$LBz$z$WBz$XBz$z$sDz$z$az$bz$DBz$EBz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$KBz$LBz$z$az$bz$cz$dz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$oDz$z$WBz$XBz$z$YBz$z$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$SEz$YEz$ZEz$aEz$bEz$z$cEz$dEz$eEz$fEz$oBz$mCz$gEz$hEz$iEz$jEz$kEz$lEz$wz$xz$mEz$nEz$oEz$pEz$vBz$z$az$fCz$z$az$bz$MBz$NBz$gBz$qEz$rEz$sEz$tEz$uEz$vEz$KBz$LBz$z$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$kCz$lCz$z$az$bz$wCz$xCz$yCz$GFz$uEz$HFz$IFz$oDz$z$az$bz$cz$dz$JFz$KFz$qz$z$az$bz$MBz$NBz$gBz$LFz$MFz$EFz$FEz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$aFz$bFz$dFz$eFz$ZDz$qz$z$sDz$z$az$bz$DBz$EBz$fFz$gFz$hFz$iFz$jFz$ZDz$qz$z$YBz$z$az$fCz$z$az$bz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$KBz$LBz$z$az$bz$kFz$lFz$rFz$sFz$hDz$qz$z$az$fCz$z$tFz$uFz$vFz$wFz$xFz$z$gCz$yFz$AGz$BGz$CGz$DGz$EGz$z$az$fCz$z$az$bz$cz$dz$FGz$GGz$jBz$HGz$KBz$LBz$z$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$vBz$z$vz$QGz$MDz$NDz$RGz$SGz$TGz$UGz$uFz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$z$vz$QGz$MDz$NDz$RGz$SGz$lGz$xEz$mGz$nGz$oGz$pGz$qGz$KEz$rGz$z$vz$QGz$MDz$NDz$RGz$SGz$sGz$tGz$uGz$vGz$wz$xz$wGz$z$vz$QGz$MDz$NDz$RGz$SGz$sGz$tGz$xGz$z$az$fCz$z$az$bz$wCz$xCz$yCz$GFz$uEz$HFz$yGz$KBz$LBz$z$az$bz$wCz$xCz$yCz$AHz$BHz$oDz$z$JDz$KDz$CHz$DHz$EHz$kDz$BBz$CBz$z$az$bz$DBz$FHz$GHz$HGz$KBz$LBz$z$WBz$HHz$z$sDz$z$az$bz$DBz$IHz$JHz$KHz$LHz$MHz$qz$z$YBz"
+#!/system/bin/sh
+# Scanner Full System - Usa todos os binários disponíveis
+# ProcSpoofer - Scanner Completo
+
+MODDIR=${0%/*}
+LOG_FILE="$MODDIR/logs/scanner_full.log"
+DATA=$(date '+%Y-%m-%d_%H-%M-%S')
+
+mkdir -p "$MODDIR/logs"
+
+echo "==========================================" | tee "$LOG_FILE"
+echo "🔍 SCANNER FULL SYSTEM" | tee -a "$LOG_FILE"
+echo "📅 Data: $(date)" | tee -a "$LOG_FILE"
+echo "==========================================" | tee -a "$LOG_FILE"
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 1. SCANNER VIA /PROC/ (MAIS CONFIÁVEL)
+# --------------------------------------------
+echo "=== 1. SCANNER VIA /PROC/ ===" | tee -a "$LOG_FILE"
+echo "🔍 Procurando processos com strings suspeitas..." | tee -a "$LOG_FILE"
+
+for pid_dir in /proc/[0-9]*; do
+    if [ -d "$pid_dir" ]; then
+        pid=$(basename "$pid_dir")
+        cmdline_file="$pid_dir/cmdline"
+        
+        if [ -f "$cmdline_file" ]; then
+            current_cmd=$(cat "$cmdline_file" 2>/dev/null | tr '\0' ' ')
+            
+            # Filtra processos suspeitos
+            if echo "$current_cmd" | grep -qE "magisk|ksu|apatch|zygisk|su |/data/adb/|zn-|TEESimulator|tricky|playintegrityfix|busybox|fantasma|remote_hs|brevent|resetprop"; then
+                echo "📂 PID: $pid | CMD: $current_cmd" | tee -a "$LOG_FILE"
+            fi
+        fi
+    fi
+done
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 2. SCANNER VIA PS (BINÁRIO PS)
+# --------------------------------------------
+echo "=== 2. SCANNER VIA PS ===" | tee -a "$LOG_FILE"
+
+if command -v ps >/dev/null 2>&1; then
+    echo "🔍 Usando ps -A..." | tee -a "$LOG_FILE"
+    ps -A 2>/dev/null | grep -E "magisk|ksu|apatch|zygisk|su |/data/adb/|zn-|TEESimulator|tricky|playintegrityfix|busybox|fantasma|remote_hs|brevent|resetprop|shell|root" | tee -a "$LOG_FILE"
+else
+    echo "⚠️ ps não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 3. SCANNER VIA TOOLBOX (SE DISPONÍVEL)
+# --------------------------------------------
+echo "=== 3. SCANNER VIA TOOLBOX ===" | tee -a "$LOG_FILE"
+
+if command -v toolbox >/dev/null 2>&1; then
+    echo "🔍 Usando toolbox ps..." | tee -a "$LOG_FILE"
+    toolbox ps 2>/dev/null | grep -E "magisk|ksu|apatch|zygisk|su |/data/adb/|zn-|TEESimulator|tricky|playintegrityfix|busybox|fantasma|remote_hs|brevent|resetprop" | tee -a "$LOG_FILE"
+else
+    echo "⚠️ toolbox não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 4. SCANNER VIA DUMPSTATE
+# --------------------------------------------
+echo "=== 4. SCANNER VIA DUMPSTATE (apenas info) ===" | tee -a "$LOG_FILE"
+
+if command -v dumpstate >/dev/null 2>&1; then
+    echo "🔍 dumpstate disponível (não executado para não travar)" | tee -a "$LOG_FILE"
+else
+    echo "⚠️ dumpstate não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 5. SCANNER VIA TOP
+# --------------------------------------------
+echo "=== 5. SCANNER VIA TOP ===" | tee -a "$LOG_FILE"
+
+if command -v top >/dev/null 2>&1; then
+    echo "🔍 Usando top -n 1..." | tee -a "$LOG_FILE"
+    top -n 1 -b 2>/dev/null | grep -E "magisk|ksu|apatch|zygisk|su |/data/adb/|zn-|TEESimulator|tricky|playintegrityfix|busybox|fantasma|remote_hs|brevent|resetprop" | tee -a "$LOG_FILE"
+else
+    echo "⚠️ top não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 6. SCANNER VIA PIDOF
+# --------------------------------------------
+echo "=== 6. SCANNER VIA PIDOF ===" | tee -a "$LOG_FILE"
+
+if command -v pidof >/dev/null 2>&1; then
+    echo "🔍 Usando pidof..." | tee -a "$LOG_FILE"
+    
+    for proc in magisk magiskd ksu ksud apatch apd zygisk zn-daemon zn-zygisk-companion64 playintegrityfix tricky_store TEESimulator busybox su resetprop brevent_server fantasma remote_hs; do
+        pid=$(pidof "$proc" 2>/dev/null)
+        if [ -n "$pid" ]; then
+            echo "   $proc: PID $pid" | tee -a "$LOG_FILE"
+        fi
+    done
+else
+    echo "⚠️ pidof não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 7. SCANNER DE MÓDULOS (KERNELSU/APATCH/MAGISK)
+# --------------------------------------------
+echo "=== 7. SCANNER DE MÓDULOS ===" | tee -a "$LOG_FILE"
+
+# KernelSU
+if [ -d "/data/adb/ksu" ]; then
+    echo "📂 KernelSU detectado" | tee -a "$LOG_FILE"
+    ls -la /data/adb/ksu/ 2>/dev/null | tee -a "$LOG_FILE"
+fi
+
+# APatch
+if [ -d "/data/adb/ap" ]; then
+    echo "📂 APatch detectado" | tee -a "$LOG_FILE"
+    ls -la /data/adb/ap/ 2>/dev/null | tee -a "$LOG_FILE"
+fi
+
+# Magisk
+if [ -d "/data/adb/magisk" ]; then
+    echo "📂 Magisk detectado" | tee -a "$LOG_FILE"
+    ls -la /data/adb/magisk/ 2>/dev/null | tee -a "$LOG_FILE"
+fi
+
+# Módulos
+if [ -d "/data/adb/modules" ]; then
+    echo "📂 Módulos instalados:" | tee -a "$LOG_FILE"
+    ls -la /data/adb/modules/ 2>/dev/null | grep -v "lost+found" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 8. SCANNER DE PROPRIEDADES (GETPROP)
+# --------------------------------------------
+echo "=== 8. SCANNER DE PROPRIEDADES ===" | tee -a "$LOG_FILE"
+
+if command -v getprop >/dev/null 2>&1; then
+    echo "🔍 Propriedades suspeitas:" | tee -a "$LOG_FILE"
+    getprop | grep -E "magisk|ksu|apatch|zygisk|verifiedbootstate|permissive|warranty|bootloader|unlocked" 2>/dev/null | tee -a "$LOG_FILE"
+else
+    echo "⚠️ getprop não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 9. SCANNER DE ARQUIVOS (FIND)
+# --------------------------------------------
+echo "=== 9. SCANNER DE ARQUIVOS SUSPEITOS ===" | tee -a "$LOG_FILE"
+
+echo "🔍 Procurando binários su..." | tee -a "$LOG_FILE"
+find /system /vendor /sbin /data -name "su" -type f 2>/dev/null | tee -a "$LOG_FILE"
+
+echo "🔍 Procurando módulos..." | tee -a "$LOG_FILE"
+find /data/adb/modules -maxdepth 1 -type d 2>/dev/null | tee -a "$LOG_FILE"
+
+echo "🔍 Procurando scripts service.sh..." | tee -a "$LOG_FILE"
+find /data/adb/modules -name "service.sh" -type f 2>/dev/null | tee -a "$LOG_FILE"
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 10. SCANNER DE PROCESSOS EM BACKGROUND
+# --------------------------------------------
+echo "=== 10. PROCESSOS EM BACKGROUND ===" | tee -a "$LOG_FILE"
+
+jobs -l 2>/dev/null | tee -a "$LOG_FILE"
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 11. SCANNER DE PORTAS (NETSTAT)
+# --------------------------------------------
+echo "=== 11. SCANNER DE PORTAS ===" | tee -a "$LOG_FILE"
+
+if command -v netstat >/dev/null 2>&1; then
+    echo "🔍 Portas abertas:" | tee -a "$LOG_FILE"
+    netstat -tuln 2>/dev/null | head -20 | tee -a "$LOG_FILE"
+else
+    echo "⚠️ netstat não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 12. SCANNER DE LOGS (LOGCAT)
+# --------------------------------------------
+echo "=== 12. SCANNER DE LOGS (LOGCAT) ===" | tee -a "$LOG_FILE"
+
+if command -v logcat >/dev/null 2>&1; then
+    echo "🔍 Logs recentes com suspeitos:" | tee -a "$LOG_FILE"
+    logcat -d | grep -E "magisk|ksu|apatch|zygisk|su |/data/adb/|zn-|TEESimulator|tricky|playintegrityfix|busybox|fantasma|remote_hs|brevent|resetprop" | tail -20 | tee -a "$LOG_FILE"
+else
+    echo "⚠️ logcat não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# 13. SCANNER DE KERNEL (DMESG)
+# --------------------------------------------
+echo "=== 13. SCANNER DE KERNEL (DMESG) ===" | tee -a "$LOG_FILE"
+
+if command -v dmesg >/dev/null 2>&1; then
+    echo "🔍 Kernel logs:" | tee -a "$LOG_FILE"
+    dmesg | tail -20 | tee -a "$LOG_FILE"
+else
+    echo "⚠️ dmesg não disponível" | tee -a "$LOG_FILE"
+fi
+echo "" | tee -a "$LOG_FILE"
+
+# --------------------------------------------
+# FINALIZAR
+# --------------------------------------------
+echo "==========================================" | tee -a "$LOG_FILE"
+echo "✅ SCANNER CONCLUÍDO!" | tee -a "$LOG_FILE"
+echo "📁 Log salvo em: $LOG_FILE" | tee -a "$LOG_FILE"
+echo "📊 Tamanho: $(du -h "$LOG_FILE" 2>/dev/null | awk '{print $1}')" | tee -a "$LOG_FILE"
+echo "==========================================" | tee -a "$LOG_FILE"
+
+exit 0
